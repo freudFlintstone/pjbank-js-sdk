@@ -9,7 +9,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/pjbank/pjbank-js-sdk.git"
+        "url": "git+https://github.com/freudFlintstone/pjbank-js-sdk.git"
     },
     "keywords": [
         "fintech",
@@ -20,9 +20,9 @@
     "author": "Matheus Fidelis",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/pjbank/pjbank-js-sdk/issues"
+        "url": "https://github.com/freudFlintstone/pjbank-js-sdk/issues"
     },
-    "homepage": "https://github.com/pjbank/pjbank-js-sdk#readme",
+    "homepage": "https://github.com/freudFlintstone/pjbank-js-sdk#readme",
     "dependencies": {
         "colors": "^1.1.2",
         "faker": "^4.1.0",
